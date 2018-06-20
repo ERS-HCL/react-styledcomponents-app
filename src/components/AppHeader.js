@@ -5,6 +5,7 @@ const AppHeader = styled.header`
   height: 150px;
   padding: 20px;
   color: white;
+  align-self: auto;
 `
 
 export default AppHeader
